@@ -1,5 +1,3 @@
-
-
 <h1 align="center" style="margin-bottom: 0">
 	Oh Hello!
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" />
@@ -10,6 +8,7 @@
 	<img width="14%" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKubC08&label=Total%20Visitors&labelColor=%23f47373&countColor=%23555555&labelStyle=upper"/>
 	<img width="14%" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKubC08&label=Visitors%20Today&labelColor=%23ba68c8&countColor=%23555555&labelStyle=upper"/>
 </div>
+<br />
 
 <a href="https://github.com/KubC08"><img align="right" width="170" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3ejJzZnpqZ2F2MGtkZmk5ZnJwczNyeW5pcW5qN3gwbGk3eTJ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"></a>
 
