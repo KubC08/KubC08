@@ -26,6 +26,7 @@
 I am a programmer who enjoys creating and building new and exciting things. I have been programming since I was 11 and have always enjoyed sharing my creations.
 I am still quite new to GitHub and OSS, so please don't be too harsh on my stats. 🙂
 
+<br />
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubc08&layout=compact" alt="Top used languages" />
 	<img width="47%" src="https://github-readme-stats.vercel.app/api?username=kubc08&show_icons=true&theme=transparent" />
