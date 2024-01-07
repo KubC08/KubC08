@@ -6,7 +6,7 @@
 	<a href="https://discordapp.com/users/1193185922821402666" target="_blank"><img src="https://img.shields.io/badge/kubc08-3e85f7?style=flat-square&logo=discord&labelColor=white"/></a>
 	<a href="https://www.linkedin.com/in/mick-k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-823ef7?style=flat-square&logo=linkedin&labelColor=gray"/></a>
 	<img width="14%" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKubC08&label=Total%20Visitors&labelColor=%23f47373&countColor=%23555555&labelStyle=upper"/>
-	<img width="14%" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKubC08&label=Visitors%20Today&labelColor=%23ba68c8&countColor=%23555555&labelStyle=upper"/>
+	<img width="14%" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FKubC08&label=Visitors%20Today&labelColor=%23ba68c8&countColor=%23555555&labelStyle=upper"/>
 </div>
 <br />
 
